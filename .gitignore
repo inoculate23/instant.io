@@ -5,3 +5,5 @@ secret/*
 
 static/main.css
 static/bundle.js
+
+.env
